@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483986071997",
+    "project_id": "as-sistemas-moveis-ee79c",
+    "storage_bucket": "as-sistemas-moveis-ee79c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483986071997:android:17dfb75ab7d8e58ee6f2d4",
+        "android_client_info": {
+          "package_name": "com.example.as_sistemas_moveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-X3DrHZbsyYmVx1yNef2Sq9GBlNxos28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
