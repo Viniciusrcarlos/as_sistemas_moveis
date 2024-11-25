@@ -18,6 +18,7 @@ class CustomInput extends StatelessWidget {
         decoration: InputDecoration(
           label: Text(label),
           hintText: hintText,
+          
           border: OutlineInputBorder(),
         ),
       ),
