@@ -6,7 +6,7 @@ class CepService{
   Future<List<Cep>> buscarCep(String cep) async {
     final response = await http.get(Uri.parse("https://viacep.com.br/ws/$cep/json/"));
 
-    if (response.statusCode == 200) {  // Se der tudo supimpa
+    if (response.statusCode == 200) {
       List jsonResponse = json.decode(response.body);
       return jsonResponse.map((item) => Cep.fromJson(item)).toList();
     } else {
