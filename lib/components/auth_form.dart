@@ -73,7 +73,7 @@ class AuthForm extends StatelessWidget {
                     return null;
                   },
                 ),
-              SizedBox(
+              const SizedBox(
                 height: 20,
               ),
               ElevatedButton(
