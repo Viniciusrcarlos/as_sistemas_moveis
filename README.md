@@ -57,3 +57,6 @@ Este repositório contém o projeto de avaliação semestral da disciplina de **
    import 'package:firebase_core/firebase_core.dart';
    import 'firebase_options.dart';
 
+6. Depois desses passos de configuração, adicione a dependencia de Auth
+   ```bash
+   flutter pub add firebase_auth
