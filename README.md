@@ -11,7 +11,6 @@ Este repositório contém o projeto de avaliação semestral da disciplina de **
 ## 🚀 Tecnologias Utilizadas
 
 - **Linguagem principal:** Dart
-- **Complementares:** C++, Swift
 - **Frameworks/Plataformas:** Flutter, APIs nativas
 
 ## 🛠️ Configuração do Ambiente
