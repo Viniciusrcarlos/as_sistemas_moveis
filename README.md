@@ -12,10 +12,18 @@ Este repositório contém o projeto de avaliação semestral da disciplina de **
 
 - **Linguagem principal:** Dart
 - **Frameworks/Plataformas:** Flutter, APIs nativas
+- **Firebase**: Auth
 
 ## 🛠️ Configuração do Ambiente
 
 1. Certifique-se de ter o [Flutter](https://flutter.dev) instalado.
-2. Clone este repositório:
+
+3. Certifique-se de ter o [Android Studio](https://developer.android.com/studio/install?hl=pt-br) instalado.
+   
+5. Certifique-se de ter o [Dart](https://dart.dev/) instalado.
+   
+6. Clone este repositório:
    ```bash
    git clone https://github.com/Viniciusrcarlos/as_sistemas_moveis.git
+
+7. Configure o seu [Firebase](https://firebase.google.com/?hl=pt-br)
